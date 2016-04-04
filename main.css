@@ -1,0 +1,22 @@
+.uno{
+	border: 10px solid yellow;
+	padding: 50px;
+	margin: 0px;
+	background: white;
+	height: 180px;
+	width: 200px;
+}
+
+.dos{
+	border: 10px solid yellow;
+	padding: 50px;
+	margin: auto;
+	background: white;
+	height: 180px;
+	width: 200px;
+	
+}
+.center{ 
+	
+	text-align: center; 
+}
